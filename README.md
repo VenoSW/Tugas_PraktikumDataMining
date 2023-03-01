@@ -2,9 +2,10 @@
 Buatlah program untuk menghitung jumlah karakakter dari nama dan nim.
 ```
 Ketentuan :
-1. Tanpa memanggil fungsi len
-2. Membuat fungsi (def)
-3. Menggunakan perulangan dan if
+1. Menghitung karakter tanpa spasi
+2. Tanpa memanggil fungsi len
+3. Membuat fungsi (def)
+4. Menggunakan perulangan dan if
 
 Contoh Output:
 ```
