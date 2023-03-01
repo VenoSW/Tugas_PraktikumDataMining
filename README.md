@@ -1,4 +1,8 @@
-# 1. Tugas Modul 1 (Minggu Pertama)
+# Pengumpulan Tugas
+Tugas dikumpulkan dengan cara membuat laporan akhir (tugas dari modul 1 - 4). Laporan dalam bentuk (.pdf) dan di burning ke CD lalu CD diberikan ke Dosen Pengampu. 
+Deadline pengumpulan tugas adalah pada pertemuan ke-4.
+
+## 1. Tugas Modul 1 (Minggu Pertama)
 Buatlah program untuk menghitung jumlah karakakter dari nama dan nim.
 ```
 Ketentuan :
