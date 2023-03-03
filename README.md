@@ -13,7 +13,6 @@ Tata cara pengumpulan
 3. Isi NIM, Nama, dan Link Google Drive yang sudah di upload, kemudian klik submit
 ```
 ![image](https://user-images.githubusercontent.com/22215113/222668278-85b27507-c14f-4e32-991c-7c5b217175a5.png)
-```
 
 ## 1. Tugas Modul 1 (Minggu Pertama)
 Buatlah program untuk menghitung jumlah karakakter dari nama dan nim.
