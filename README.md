@@ -1,4 +1,4 @@
-# Pengumpulan Tugas
+# Pengumpulan Tugas Mingguan
 Tugas dikumpulkan dengan cara di upload di Google Drive dan link nya di copy di form yang sudah disediakan di website lab.bangsa.web.id.
 ```
 Tata cara pengumpulan
