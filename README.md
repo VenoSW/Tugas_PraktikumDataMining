@@ -14,6 +14,9 @@ Tata cara pengumpulan
 ```
 ![image](https://user-images.githubusercontent.com/22215113/222668278-85b27507-c14f-4e32-991c-7c5b217175a5.png)
 
+# Tugas Laporan Akhir
+Setiap Mahasiswa yang mengikut praktikum wajib membuat Laporan Akhir dalam bentuk (.pdf) lalu diburning ke CD dan dikumpulkan pada pertemuan ke-4
+
 ## 1. Tugas Modul 1 (Minggu Pertama)
 Buatlah program untuk menghitung jumlah karakakter dari nama dan nim.
 ```
