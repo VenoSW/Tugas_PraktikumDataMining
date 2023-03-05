@@ -1,3 +1,13 @@
+# Tata Tertib Lab
+```
+1. Dilarang berisik ketika Praktikum
+2. Dilarang membawa makanan dan minuman kedalam lab (termasuk di atas meja komputer)
+3. Smartphone dimasukkan kedalam tas, dan tas ditaruh didepan
+4. Ketika praktikum selesai, komputer harap di matikan (Shutdown) kemudian keyboard dan mouse di rapihkan seperti semula
+5. Kartu kendali WAJIB dibawa setiap Praktikum
+6. Apabila Kartu Kendali hilang atau rusak akan dikenakan sanksi
+```
+
 # Pengumpulan Tugas Mingguan
 Tugas dikumpulkan dengan cara di upload di Google Drive dan link nya di copy di form yang sudah disediakan di website lab.bangsa.web.id.
 ```
