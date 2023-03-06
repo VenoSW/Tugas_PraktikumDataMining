@@ -40,3 +40,12 @@ Ketentuan :
 Contoh Output:
 ```
 ![image](https://user-images.githubusercontent.com/22215113/222180884-8938d647-9142-4be8-b714-410f7123e24b.png)
+
+## 2. Tugas Modul 2 (Minggu Kedua)
+Buatlah module (library) dengan nama masing-masing
+```
+Ketentuan :
+1. Membuat fungsi untuk membaca file txt
+
+Contoh Output:
+```
