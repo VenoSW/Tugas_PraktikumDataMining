@@ -44,7 +44,7 @@ Ketentuan :
 Buatlah module (library) dengan nama masing-masing
 ```
 Ketentuan :
-1. Buat module dengan nama sendiri
+1. Buat module dengan nama sendiri dan disimpan satu folder yang sama dengan file untuk memanggil module
 2. Buat file .txt dengan isi Nama dan NIM masing-masing
 3. Membuat fungsi untuk membaca file txt
 4. Panggil module yang sudah dibuat
@@ -56,3 +56,5 @@ Ketentuan :
 ![image](https://user-images.githubusercontent.com/22215113/223308337-2e164ba2-dfa0-4c3a-9fe5-7895e5eae7b6.png)
 #### Panggil module yang sudah dibuat
 ![image](https://user-images.githubusercontent.com/22215113/223308515-6ff4813a-f4a4-46c1-978c-68b4a3da54c6.png)
+#### File disimpan satu folder agar module bisa dipanggil
+![image](https://user-images.githubusercontent.com/22215113/223309214-cd1ae827-82d7-48f5-8a33-f4b0b5c11e8a.png)
