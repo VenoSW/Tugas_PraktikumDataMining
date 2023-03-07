@@ -36,16 +36,23 @@ Ketentuan :
 2. Tanpa memanggil fungsi len
 3. Membuat fungsi (def)
 4. Menggunakan perulangan dan if
-
-Contoh Output:
 ```
+### Contoh Output:
 ![image](https://user-images.githubusercontent.com/22215113/222180884-8938d647-9142-4be8-b714-410f7123e24b.png)
 
 ## 2. Tugas Modul 2 (Minggu Kedua)
 Buatlah module (library) dengan nama masing-masing
 ```
 Ketentuan :
-1. Membuat fungsi untuk membaca file txt
-
-Contoh Output:
+1. Buat module dengan nama sendiri
+2. Buat file .txt dengan isi Nama dan NIM masing-masing
+3. Membuat fungsi untuk membaca file txt
+4. Panggil module yang sudah dibuat
 ```
+### Contoh Output:
+#### Buat file .txt
+![image](https://user-images.githubusercontent.com/22215113/223308296-2e5c79bb-af30-4e6d-bfe5-6e1f07ad822d.png)
+#### Buat module (nama nya bebas)
+![image](https://user-images.githubusercontent.com/22215113/223308337-2e164ba2-dfa0-4c3a-9fe5-7895e5eae7b6.png)
+#### Panggil module yang sudah dibuat
+![image](https://user-images.githubusercontent.com/22215113/223308515-6ff4813a-f4a4-46c1-978c-68b4a3da54c6.png)
