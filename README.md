@@ -1,3 +1,11 @@
+# Pre-test Minggu ke-3
+```
+- Buat folder dengan Nama dan NIM
+- Buat file 'pancasila.txt', isi dengan teks pancasila
+- Buat file dengan 'namamasing.py', isi dengan fungsi untuk membaca file .txt
+- Buat file 'utama.py' dan panggil fungsi untuk membaca file teks pancasila
+```
+
 # Tata Tertib Lab
 ```
 1. Dilarang berisik ketika Praktikum
