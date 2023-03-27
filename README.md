@@ -34,7 +34,10 @@ Tata cara pengumpulan
 ![image](https://user-images.githubusercontent.com/22215113/222668278-85b27507-c14f-4e32-991c-7c5b217175a5.png)
 
 # Tugas Akhir
-Setiap Mahasiswa yang mengikut praktikum wajib membuat project dan Laporan Akhir dalam bentuk (.pdf) lalu diburning ke CD dan dikumpulkan pada pertemuan ke-4
+Setiap Mahasiswa yang mengikut praktikum wajib membuat project dan Laporan Akhir dalam bentuk (.pdf) lalu diburning ke CD dan dikumpulkan pada pertemuan ke-4. Maksimal kelompok 3 Mahasiswa.
+```
+Buat sistem prediksi bebas (contohnya sistem prediksi harga rumah) menggunakan metode data mining "Regresi Linier" minimal dataset 500 data. Lalu dibuat laporan dalam bentuk .pdf dan di burning ke CD (CD dikasih sampul nama kelompok, dan ada logo kampus. Di Design semenarik mungkin.) Dan buat poster ukuran A3 (Dibuat semenarik mungkin)
+```
 
 ## 1. Tugas Modul 1 (Minggu Pertama)
 Buatlah program untuk menghitung jumlah karakakter dari nama dan nim.
