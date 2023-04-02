@@ -1,9 +1,13 @@
-# Pre-test Minggu ke-3
+# Tugas Akhir
+
 ```
-- Buat folder dengan Nama dan NIM
-- Buat file 'pancasila.txt', isi dengan teks pancasila
-- Buat file dengan 'namamasing.py', isi dengan fungsi untuk membaca file .txt
-- Buat file 'utama.py' dan panggil fungsi untuk membaca file teks pancasila
+1. Maksimal kelompok 3 Mahasiswa.
+2. Buat sistem prediksi bebas (contohnya sistem prediksi harga rumah)
+   menggunakan metode data mining "Regresi Linier" minimal dataset 100 data.
+3. Buat laporan dalam bentuk .pdf
+4. Laporan (.pdf) dan file streamlit (.py) di burning ke CD
+   (CD dikasih sampul nama kelompok, tahun ajaran dan ada logo kampus. Di Design semenarik mungkin.)
+5. Buat poster ukuran A3 (Dibuat semenarik mungkin)
 ```
 
 # Tata Tertib Lab
@@ -32,16 +36,6 @@ Tata cara pengumpulan
 3. Isi NIM, Nama, dan Link Google Drive yang sudah di upload, kemudian klik submit
 ```
 ![image](https://user-images.githubusercontent.com/22215113/222668278-85b27507-c14f-4e32-991c-7c5b217175a5.png)
-
-# Tugas Akhir
-Setiap Mahasiswa yang mengikut praktikum wajib membuat project dan Laporan Akhir dalam bentuk (.pdf) lalu diburning ke CD dan dikumpulkan pada pertemuan ke-4. Maksimal kelompok 3 Mahasiswa.
-```
-Buat sistem prediksi bebas (contohnya sistem prediksi harga rumah)
-menggunakan metode data mining "Regresi Linier" minimal dataset 500 data.
-Lalu dibuat laporan dalam bentuk .pdf dan di burning ke CD
-(CD dikasih sampul nama kelompok, dan ada logo kampus. Di Design semenarik mungkin.)
-Dan buat poster ukuran A3 (Dibuat semenarik mungkin)
-```
 
 ## 1. Tugas Modul 1 (Minggu Pertama)
 Buatlah program untuk menghitung jumlah karakakter dari nama dan nim.
